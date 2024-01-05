@@ -1,0 +1,3 @@
+﻿  Level.cpp
+D:\Abertay\YEAR3\Networking\Coursework - safe copy\SFML\PacManvsGhost\PacManvsGhost\Networking.h(39,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PacManvsGhost.vcxproj -> D:\Abertay\YEAR3\Networking\Coursework - safe copy\SFML\PacManvsGhost\x64\Debug\PacManvsGhost.exe

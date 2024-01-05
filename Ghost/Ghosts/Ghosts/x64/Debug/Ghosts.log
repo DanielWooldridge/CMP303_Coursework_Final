@@ -1,0 +1,3 @@
+﻿  Level.cpp
+D:\Abertay\YEAR3\Networking\Coursework - safe copy\SFML\Ghost\Ghosts\Ghosts\Networking.h(37,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ghosts.vcxproj -> D:\Abertay\YEAR3\Networking\Coursework - safe copy\SFML\Ghost\Ghosts\x64\Debug\Ghosts.exe

@@ -1,0 +1,22 @@
+﻿  Animation.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\Animation.h(8,10): fatal  error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  AudioManager.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\SoundObject.h(7,10): fatal  error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  BaseLevel.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\BaseLevel.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Collision.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\GameObject.h(8,10): fatal  error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  GameObject.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\GameObject.h(8,10): fatal  error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SoundObject.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\SoundObject.h(7,10): fatal  error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  TileMap.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\GameObject.h(8,10): fatal  error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  VectorHelper.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\VectorHelper.h(6,10): fatal  error C1083: Cannot open include file: 'SFML\System\Vector2.hpp': No such file or directory
+  level.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\level.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PacMan.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Framework\GameObject.h(8,10): fatal  error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Source.cpp
+D:\Abertay\YEAR3\Networking\Courseowrk\SFML\PacManvsGhost\PacManvsGhost\Source.cpp(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
